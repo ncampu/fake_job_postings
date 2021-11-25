@@ -3,7 +3,7 @@ In this day and age, online scams are more prevalent than ever, even in the empl
 ## Files:
 .ipynb: Where my code and writing is
 
-.csv: The dataset I used
+.zip: Contains the .csv dataset I used
 ## Dependencies:
 
 numpy
